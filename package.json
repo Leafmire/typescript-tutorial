@@ -1,0 +1,13 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making Blockchain",
+  "main": "index.js",
+  "repository": "https://github.com/Leafmire/typescript-tutorial.git",
+  "author": "Leafmire <39892384+Leafmire@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "npx tsc" 
+  }
+}
